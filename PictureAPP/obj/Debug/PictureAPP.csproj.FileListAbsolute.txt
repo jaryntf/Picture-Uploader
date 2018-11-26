@@ -1,0 +1,10 @@
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.csprojAssemblyReference.cache
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.Form1.resources
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.Properties.Resources.resources
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.csproj.GenerateResource.cache
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.csproj.CoreCompileInputs.cache
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\bin\Debug\PictureAPP.exe.config
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\bin\Debug\PictureAPP.exe
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\bin\Debug\PictureAPP.pdb
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.exe
+C:\Users\Jaryn\source\repos\PictureAPP\PictureAPP\obj\Debug\PictureAPP.pdb
